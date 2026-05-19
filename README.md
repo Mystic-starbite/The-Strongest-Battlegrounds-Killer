@@ -3,6 +3,8 @@
 You might wonder why this exists, Simple.
 TSB is shit. Block it FOREVER
 
+Theorically, this could work with any roblox experience, As long you change the id to the experience you want to block
+
 ## 🪟 How to Use on Windows
 
 The Windows script uses **PowerShell** to scan local logs.
@@ -21,7 +23,7 @@ To make it run invisibly in the background every time you turn on your PC:
 
     Move both the launch.vbs file and your tsbkiller.ps1 script into that folder.
 
-How to Use on Linux (Sober Flatpak)
+## How to Use on Linux (Sober Flatpak)
 
 The Linux script is written in Bash and is specifically tailored for the Sober Flatpak environment.
 Manual Execution:
