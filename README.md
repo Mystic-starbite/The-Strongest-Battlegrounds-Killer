@@ -65,3 +65,5 @@ To keep it permanently active in the background as a user service:
     systemctl --user enable --now anti-tsb.service
 
     (Note: Make sure the path in ExecStart accurately matches the location where you saved your tsbkiller.sh script).
+
+<img width="1170" height="556" alt="imagen" src="https://github.com/user-attachments/assets/f5f4c921-d299-4ace-83da-370ee7150d29" />
