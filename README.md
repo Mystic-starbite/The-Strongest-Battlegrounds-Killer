@@ -1,5 +1,8 @@
 # The-Strongest-Battlegrounds-Killer
 
+You might wonder why this exists, Simple.
+TSB is shit. Block it FOREVER
+
 ## 🪟 How to Use on Windows
 
 The Windows script uses **PowerShell** to scan local logs.
